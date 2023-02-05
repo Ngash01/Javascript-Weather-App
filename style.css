@@ -1,0 +1,31 @@
+span{
+  color: blue;
+  font-size: 14px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  font-style: solid;
+}
+
+.container{
+  margin-top: 12px;
+}
+
+#nav-bar{
+  background-color: rgb(92, 91, 91);
+}
+
+.header-weather{
+  color: rgb(56, 139, 56);
+  margin-bottom: 5px;
+}
+
+label{
+  color: green;
+  font-style: italic;
+}
+#temp2{
+  font-weight: bold;
+  font-size: 37px;
+  color: black;
+  margin-top: 21px;
+}
